@@ -1,0 +1,7 @@
+Repositories -
+
+Branch - Branching is the way to work on different versions of a repository at one time. When you create a branch off the master branch, you’re making a copy, or snapshot, of master as it was at that point in time. If someone else made changes to the master branch while you were working on your branch, you could pull in those updates.
+
+Commits - Saved changes are called commits. Each commit has an associated commit message, which is a description explaining why a particular change was made. Commit messages capture the history of your changes, so other contributors can understand what you’ve done and why.
+
+Pull request - When you open a pull request, you’re proposing your changes and requesting that someone review and pull in your contribution and merge them into their branch.
